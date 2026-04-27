@@ -14,6 +14,24 @@
 
 ---
 
+<div align="center">
+
+### 🟢 Открыт к новым предложениям
+
+**Ищу позицию Fullstack · Frontend разработчика**
+
+`Vue 3` · `TypeScript` · `Laravel` · `NestJS` · `Docker`
+
+Коммерческий код показать не могу — NDA. Поэтому собрал актуальный стек в открытом проекте:
+
+**[🚀 InstaPilot — смотреть на GitHub](https://github.com/olegopro/insta-pilot)**
+
+<sub>Fullstack-сервис на трёх языках · Vue 3 + Laravel + FastAPI · Real-time WebSocket · LLM-интеграция · FSD-архитектура · Docker</sub>
+
+</div>
+
+---
+
 ## 🛠 Стек технологий
 
 <div align="center">
