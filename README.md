@@ -2,9 +2,9 @@
 
 # Олег Десятников
 
-**Frontend разработчик · 🔥 Vue.js / TypeScript 🔥** 
+**Frontend разработчик · Vue.js / TypeScript** 
 
-Краснодар, Россия &nbsp;·&nbsp; Готов к переезду и командировкам
+Краснодар, Россия &nbsp;·&nbsp; 🔥 Готов к переезду и командировкам 🔥
 
 [![Telegram](https://img.shields.io/badge/Telegram-@evilgazz-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/evilgazz)
 [![Email](https://img.shields.io/badge/Email-evilgazz@yandex.ru-D14836?style=flat&logo=yandex&logoColor=white)](mailto:evilgazz@yandex.ru)
