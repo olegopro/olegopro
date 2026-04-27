@@ -50,7 +50,7 @@
 ## 💼 Опыт работы
 
 ### Ведущий разработчик интерфейсов Vue.js / TypeScript
-**ООО «Центр интеллектуальной безопасности»** · Краснодар · *июнь 2024 — июнь 2025*
+**ООО «Центр интеллектуальной безопасности»** · Краснодар
 
 - Запустил SPA-проект с нуля: спроектировал архитектуру, дизайн-систему и единые компоненты
 - Стек: TypeScript, Vue 3 (Composition API), Quasar, Pinia, vue-router, axios
@@ -60,7 +60,7 @@
 ---
 
 ### Vue.js / Laravel разработчик (JavaScript / PHP)
-**ООО CL МедикалГруп** · Краснодар · *март 2021 — март 2024*
+**ООО CL МедикалГруп** · Краснодар
 
 - Реализовал real-time платформу коммуникаций: WebSocket-гейтвеи (NestJS), авторизация сокетов, адресная доставка через Redis
 - Разработал полнофункциональный Vue 3 SPA медицинской платформы с нуля: аутентификация, роли, заказы, поиск, мобильная адаптация
@@ -70,7 +70,7 @@
 ---
 
 ### PHP / JS Fullstack разработчик
-*Фриланс / частные проекты* · *октябрь 2018 — февраль 2021*
+*Фриланс / частные проекты*
 
 - Разработка SPA на Vue 3 (Composition API), TypeScript, Quasar, PrimeVue
 - Backend на Laravel и CodeIgniter, автоматизация на Selenium + PHP
@@ -84,16 +84,6 @@
 |-----|-------------------|---------------|
 | 2008 | Кубанский государственный университет | Прикладная информатика в экономике |
 | 2019 | VK Group (дополнительное образование) | Веб-разработка, 716 часов |
-
----
-
-## 📊 Статистика GitHub
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=olegopro&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true)](https://github.com/olegopro)
-
-</div>
 
 ---
 
