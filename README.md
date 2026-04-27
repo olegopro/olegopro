@@ -2,7 +2,7 @@
 
 # Олег Десятников
 
-**Frontend разработчик · Vue.js / TypeScript**
+**Frontend разработчик · 🔥 Vue.js / TypeScript 🔥** 
 
 Краснодар, Россия &nbsp;·&nbsp; Готов к переезду и командировкам
 
