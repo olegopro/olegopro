@@ -110,6 +110,6 @@
 
 <div align="center">
 
-📞 **+7 (905) 401-14-11** &nbsp;·&nbsp; 💬 **[Telegram @evilgazz](https://t.me/evilgazz)** &nbsp;·&nbsp; 📧 **[evilgazz@yandex.ru](mailto:evilgazz@yandex.ru)**
+📞 **+7 (905) 401-14-11** &nbsp;·&nbsp; 💬 **[Telegram @evilgazz](https://t.me/evilgazz)** &nbsp;·&nbsp; 📧 **[evilgazz@gmail.com](mailto:evilgazz@gmail.com)**
 
 </div>
